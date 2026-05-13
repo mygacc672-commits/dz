@@ -1,6 +1,0 @@
-{
-    "default_timeout": 5,
-    "max_ports": 1024,
-    "output_format": "text",
-    "log_level": "INFO"
-}
