@@ -1,2 +1,0 @@
-python3 tools/scanner.py -t 192.168.1.1
-python3 tools/recon.py -d example.com
